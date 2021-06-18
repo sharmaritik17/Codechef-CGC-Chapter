@@ -1,4 +1,6 @@
-# Codechef-CGC-chapter
+# Codechef-CGC-Chapter
+
+[Codechef-CGC-Chapter Website](https://invincible-dot-nerve.glitch.me/)
 
 **The main modules in this project are:**
 
