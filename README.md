@@ -30,19 +30,19 @@ This module will help to register the participants so that next time all details
 
 ***The Admin Panel module includes:***
 
-- **Add Blogs:** This module help the user to report online complaints. 
+- **Add Blogs:** This module help the admin to add blogs of our college students. 
 
-- **Add Latest Events:** This module help the user to report online crimes.
+- **Add Latest Events:** This module help the admin to modify the upcoming event deatils smoothly.
 
-- **Add Reminder:** This module help the user to report online missing persons details also we have to add photos of missing person using hetrogenious database.
+- **Add Reminder:** This module help the admin to add reminders according to upcoming event.
 
 - **Edit Winners-**
 
   - Set Timer for reminders
 
-  - Add and View feedback: This module helps the user to add and view feedbacks
+  - Add Name: This module helps the admin to modify the name of winners
 
-  - Change password: This module helps the amin to update his or her password.
+  - Rank Achieved: This module helps the admin to modify the rank of winners.
 
 
 ***Advantages of Proposed System:***
